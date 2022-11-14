@@ -1,0 +1,52 @@
+
+body{
+   font-family: sans-serif;
+   margin: auto;
+   
+   
+}
+
+h1{
+    margin-left: 40px;
+}
+
+.my_likes {
+  list-style-type: lower-roman;
+
+}
+
+#likes{
+    color:red;
+}
+
+.my_likeslist{
+    margin-left: 10px;
+    padding: 1.5em;
+
+}
+
+#likeslist{
+    font-weight: bolder;
+}
+
+
+
+
+ #my_dislikes {
+    list-style-type: square;
+  }
+  
+  #dislikes{
+      color:blue;
+  }
+  
+  #my_dislikeslist{
+      margin-left: 10px;
+      
+  
+  }
+  
+  #dislikelist{
+      font-weight:lighter;
+  }
+  
